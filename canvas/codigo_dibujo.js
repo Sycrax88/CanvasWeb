@@ -39,3 +39,5 @@ function dibujoPorClick(){
     dibujarLinea(color,0,0,0,ancho);
     dibujarLinea(color,0,500,500,ancho);
 }
+
+//Este es un comentario de prueba para Github
